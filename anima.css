@@ -1,0 +1,245 @@
+
+#container{
+    width: 1000px;
+    height: 1000px;
+
+    display: flex;
+    justify-content: space-around ;
+    flex-wrap:  wrap;
+    align-items: flex-start;
+    background-color: black;
+    border-radius: 15px
+
+
+}
+
+#box1{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+
+
+
+}
+
+#box2{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box3{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+
+#box4{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box5{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box6{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box7{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box8{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box9{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box10{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box11{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+#box12{
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    
+}
+
+img{
+    border: solid 2px black;
+    border-radius: 50%;
+    transition: 2s;
+    box-shadow: 5px 5px 5px grey ;
+}
+
+img:hover{
+    transform: rotatey(180deg);
+
+}
+
+span{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+header{
+    position: sticky;
+    top: 0%;
+}
+
+footer{
+    position: sticky;
+    bottom: 0%;
+}
+
+h1{
+    border: solid 5px black;
+    border-radius: 50%;
+    margin-right: 619px;
+    padding-left: 400px;
+    background-color: white;
+    margin-left: 5px;
+    box-shadow: 5px 5px 5px grey;
+    text-shadow: 2px 2px grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 5s;
+    
+}
+
+h1:hover{
+    transform: scaleZ(1.2) rotatey(360deg);
+    background-color: black;
+    color: white;
+    border:solid 5px white
+
+}
+
+h2{
+    border: solid 2px black;
+    border-radius: 70%;
+    margin-right: 619px;
+    padding-left: 400px;
+    background-color: white;
+    margin-left: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 5s;
+
+}
+
+h2:hover{
+    transform: scaleZ(1.2) rotatey(360deg);
+    background-color: black;
+    color: white;
+    border:solid 5px white
+
+}
+
+body{
+    background-color: black;
+}
+
+
+/* body{background-color: black;}
+
+
+
+       
+
+
+
+
+#anim3{
+    width: 400px;
+    height: 400px;
+    background-image: url("https://static.972mag.com/dev/uploads/2011/04/2pac1.jpg");
+    background-size: cover;
+    animation-name: anima3;
+    animation-duration: 3s;
+    animation-iteration-count: 4;
+    position: relative;
+    ;
+
+}
+
+
+
+
+@keyframes anima3{
+
+    0%{
+        left:0px;
+        top:0px;
+        background-image: url("https://i.pinimg.com/564x/12/d5/52/12d552846229a88c8c696a890fcaa3ac.jpg");
+        background-size: cover;
+        border-radius: 50% ;}
+
+    25%{
+        left:1000px;
+        top:0px;
+        background-image: url("https://static.wikia.nocookie.net/best-music-and-songs/images/7/7b/2Pac.jpg/revision/latest/top-crop/width/360/height/450?cb=20181019212519");
+        background-size: cover;
+        border-radius: 50% ;
+    }
+
+    50%{
+        left:1000px;
+        top:200px;
+        background-image: url("https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/s3go1vdbwqsh0ick4diy/tupac");
+        background-size: cover;
+        border-radius: 50% ;
+    }
+
+    75%{
+        left:0px;
+        top:200px;
+        background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/16/19/Tupac.jpg?width=982&height=726");
+        background-size: cover;
+        border-radius: 50% ;
+        
+    }
+    
+    100%{
+        left:0px;
+        top:0px;
+        background-image: url("https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/gmwjib2d1gll16ucqpeg/2pac");
+        background-size: cover;
+        border-radius: 50% ;
+    }
+} */
